@@ -1,5 +1,5 @@
 <a href="https://foxelas.github.io/">
-  <img height=180 align="center" src="https://github.com/foxelas/foxelas.github.io/raw/master/images/preview.png" />
+  <img height=250 align="center" src="https://github.com/foxelas/foxelas.github.io/raw/master/images/preview.png" />
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
