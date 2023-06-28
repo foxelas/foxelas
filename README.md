@@ -12,7 +12,7 @@
 
 <br/><br/>
 
-<img width=500 align="center" src="https://streak-stats.demolab.com/?user=foxelas" />
+<img width=450 align="center" src="https://streak-stats.demolab.com/?user=foxelas" />
 
 
 ### Note 
