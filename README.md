@@ -1,7 +1,7 @@
 <a href="https://foxelas.github.io/">
-  <img height=400 align="center" src="https://github.com/foxelas/foxelas.github.io/raw/master/images/preview.png" />
-</a>
-
+  <img height=500 align="center" src="https://github.com/foxelas/foxelas.github.io/raw/master/images/preview.png" />
+</a>\
+\
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=foxelas&theme=synthwave&count_private=true&hide=issues,contribs&show_icons=true&include_all_commits=true" />
