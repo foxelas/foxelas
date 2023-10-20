@@ -6,9 +6,9 @@
 <a href="">
 <img height=170 align="center" src="https://readmestats.999857.xyz/api?username=foxelas&count_private=true&hide=contribs&show_icons=true" />
 </a>
-<a href="">
-<img height=170 align="center" src="https://readmestats.999857.xyz/api/top-langs/?username=foxelas&size_weight=0&count_weight=1&langs_count=5&hide=css,javascript&layout=donut&card_width=320" />
-</a>
+[//]: # <a href="">
+[//]: # <img height=170 align="center" src="https://readmestats.999857.xyz/api/top-langs/?username=foxelas&size_weight=0&count_weight=1&langs_count=5&hide=css,javascript&layout=donut&card_width=320" />
+[//]: # </a>
 
 <br/><br/>
 
