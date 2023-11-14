@@ -15,6 +15,8 @@
 
 <img width=460 align="center" src="https://streak-stats.demolab.com/?user=foxelas" />
 
+### Repo Lists
+[Link for lists](https://github.com/foxelas?tab=stars)
 
 ### Note 
 If you see any mistakes, please notify me. 
